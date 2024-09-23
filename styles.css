@@ -1,0 +1,48 @@
+#recipe {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 70%;
+    border-radius: 0.4em;
+}
+img { margin-left: 25%;
+margin-right: 75%;
+margin-top: 2em;
+margin-bottom: 2em;
+border-radius: 1em;
+}
+
+fieldset { background-color:   #f3e6d8;
+border-radius: 0.5em;
+border-style: hidden;
+margin: auto 2em;}
+
+body { background-color: hsl(30, 54%, 90%);
+margin: 4% -2%;}
+
+h1,h2 { color: hsl(24, 5%, 18%);
+margin: auto 1em;
+font-family: sans-serif;
+padding-top: 1em;}
+p {
+    margin: 1em 2em;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+li {
+    padding-left: 0.5em;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding-bottom: 1em;
+}
+.color { color: hsl(30, 10%, 34%);}
+
+hr {
+    width: 50em;
+}
+table { padding-bottom: 2em;
+padding-left: 6em;
+}
+td { padding-right: 6em;}
+tr { padding-top: 4%;}
+
